@@ -75,6 +75,15 @@
   </a>
 </div>
 
+## About me 👍
+
+- 💻 This is my GitHub profile, where I upload personal projects, practice exercises and more (the good stuff is private 😉)
+- 📚 Software Developer since 2020, working in **Frontend** and **Backend** development (desktop, mobile and web) for startups and big tech
+- 💼 I'm self-taught; used to be a Historian, working as a professor at the University of Buenos Aires and writing many papers and book chapters
+- 🎓 Studing **Cybersecurity** at **Universidad de la Defensa Nacional** / I also hold a degree in **History**, from the **University of Buenos Aires**
+- 🎮 In my free time I enjoy writing fiction, making music, playing Survival Horror videogames, watching scary films and learning new things (currently trying my luck at carpentry and Japanese)
+- 🌎 Languages: **Spanish** (Native) / **English** (C1) / **French** (B2) / **German** (A2) / **Portuguese** (A2) - Also / **Classical Latin** / **Attic Greek** / **Syriac-Aramaic**
+
 ###
 
 <div align="center">
