@@ -62,6 +62,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="60" alt="photoshop logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" height="60" alt="polygon logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/claude" height="60" alt="claude code logo" />
 </div>
 
 ###
